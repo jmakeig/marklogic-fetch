@@ -78,6 +78,6 @@ function fetch(url, options) {
 }
 
 module.exports.Request = Request;
-module.exports.Response = Request;
+module.exports.Response = Response;
 module.exports.Headers = Headers;
 module.exports.fetch = fetch;
